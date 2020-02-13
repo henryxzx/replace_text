@@ -18,3 +18,6 @@
 3. 执行 `main.py`
 
    ![](https://raw.githubusercontent.com/henryxzx/Image-Post/master/img/20200205200149.png?token=AIRCYLBTFGIXNGUBDM4DA6C6HKXOY)
+   
+
+> 20.2.13 更新 pywin32 实现替换功能，处理结果与手动打开 word 文档操作相同。
