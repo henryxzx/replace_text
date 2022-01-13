@@ -2,7 +2,7 @@ altgraph==0.17
 docx==0.2.4
 lxml==4.5.0
 macholib==1.14
-Pillow==7.0.0
+Pillow==9.0.0
 PyInstaller==3.6
 python-docx==0.8.10
 xlrd==1.2.0
